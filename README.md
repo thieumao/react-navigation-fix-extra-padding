@@ -9,13 +9,13 @@ React Navigation is born from the React Native community's need for an extensibl
 Since the library is a JS-based solution, to install the latest version of react-navigation you only need to run:
 
 ```bash
-yarn add react-navigation
+yarn add react-navigation-fix-extra-padding
 ```
 
 or
 
 ```bash
-npm install --save react-navigation
+npm install --save react-navigation-fix-extra-padding
 ```
 
 ## Documentation
@@ -62,7 +62,3 @@ Web support was [not a priority for the 1.0 release](https://github.com/react-co
 ## Code of conduct
 
 This library has adopted a Code of Conduct that we expect project participants to adhere to. Please read the [full text](https://github.com/react-community/react-navigation/blob/master/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
-
-## License
-
-React-navigation is licensed under the [BSD 2-clause "Simplified" License](https://github.com/react-community/react-navigation/blob/master/LICENSE).
