@@ -1,24 +1,23 @@
 {
   "_args": [
     [
-      "react-navigation@1.6.1",
-      "/Users/thieumao/Desktop/OlsoProject"
+      "react-navigation-fix-extra-padding@1.6.1"
     ]
   ],
-  "_from": "react-navigation@1.6.1",
-  "_id": "react-navigation@1.6.1",
+  "_from": "react-navigation-fix-extra-padding@1.6.1",
+  "_id": "react-navigation-fix-extra-padding@1.6.1",
   "_inBundle": false,
   "_integrity": "sha512-18qvuGEMorsYAtedvcDvrWi6eqdTOC7T2u1mSLddWCXKIwGsC44d4PfAzKtnd6JtMpvbCd+livTGyylfRHT2fA==",
-  "_location": "/react-navigation",
+  "_location": "/react-navigation-fix-extra-padding",
   "_phantomChildren": {
     "prop-types": "15.7.2"
   },
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "react-navigation@1.6.1",
-    "name": "react-navigation",
-    "escapedName": "react-navigation",
+    "raw": "react-navigation-fix-extra-padding@1.6.1",
+    "name": "react-navigation-fix-extra-padding",
+    "escapedName": "react-navigation-fix-extra-padding",
     "rawSpec": "1.6.1",
     "saveSpec": null,
     "fetchSpec": "1.6.1"
@@ -28,7 +27,6 @@
   ],
   "_resolved": "https://registry.npmjs.org/react-navigation/-/react-navigation-1.6.1.tgz",
   "_spec": "1.6.1",
-  "_where": "/Users/thieumao/Desktop/OlsoProject",
   "author": {
     "name": "Adam Miskiewicz",
     "email": "adam@sk3vy.com"
@@ -111,7 +109,7 @@
     "react-native": "*"
   },
   "repository": {
-    "url": "git+ssh://git@github.com/react-navigation/react-navigation.git",
+    "url": "git+ssh://git@github.com:thieumao/react-navigation-fix-extra-padding.git",
     "type": "git"
   },
   "scripts": {
