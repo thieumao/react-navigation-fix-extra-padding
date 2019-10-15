@@ -105,7 +105,7 @@
     ]
   },
   "main": "src/react-navigation.js",
-  "name": "react-navigation",
+  "name": "react-navigation-fix-extra-padding",
   "peerDependencies": {
     "react": "*",
     "react-native": "*"
